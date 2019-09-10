@@ -1,7 +1,5 @@
 # Homework 3 - Internet of Things 101
 
-## Please note that this homework is graded
-
 ## Instructions
 The objective of this homework is to build a lightweight IoT application pipeline with components running both on the edge (your Nvidia Jetson TX2) and the cloud (a VM in Softlayer).  We also request that you pay attention to the architecture: write the application in a modular way, and such that it could be run on pretty much any low power edge device or hub (e.g. Raspberry Pi or Raspberry Pi Zero) and a cheap Cloud VM - or, indeed, another low power edge device connected to some kind of storage instead of a Cloud VM. 
 
